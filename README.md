@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=n1lanjan&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 👋 Hi, I'm Nilanjan
 
 Welcome to my GitHub! I'm a technologist, startup founder, and engineering leader with 20+ years of experience in building enterprise SaaS, cybersecurity platforms, and cutting-edge AI tools. I love solving hard problems, writing clean code, and scaling products (and teams).
