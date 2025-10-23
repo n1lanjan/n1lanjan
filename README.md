@@ -34,7 +34,15 @@ Welcome to my GitHub! I'm a technologist, startup founder, and engineering leade
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, Typescript, C++, Java, Ruby, PHP
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-7B273E?logo=ruby&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-007396?logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+
 - **Dev & Infra:** AWS, Docker, Kubernetes, EKS, Terraform, CDK, GitHub Actions
 - **AI/GenAI:** LangChain, LlamaIndex, FastAPI, OpenAI, Gemini, Bedrock
 - **Security:** Penetration Testing, Red Teaming, Threat Modeling
@@ -53,3 +61,7 @@ Welcome to my GitHub! I'm a technologist, startup founder, and engineering leade
 - 💼 [LinkedIn](https://linkedin.com/in/n1lanjan)
 - 👥 [Peerlist](https://peerlist.io/n1lanjan)
 - 📅 [Schedule a Meeting](https://calendar.app.google/ukwJrJ4tptibMBcj8)
+
+---
+
+⭐ _“Build systems that think, not just compute.”_  
