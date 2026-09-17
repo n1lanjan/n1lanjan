@@ -4,7 +4,6 @@ Welcome to my GitHub! I'm a technologist, startup founder, and engineering leade
 
 ## 🎯 About Me
 
-- 🔬 Currently building **[Ephor.ai](https://www.ephor.ai)** @ [Trilogy](https://trilogy.com/)— an AI platform to accelerate human learning using GenAI.
 - 🚀 2X Founder previously
   - **FireCompass** — built a globally distributed attack surface management engine.
   - **iViZ Security** — the world's first SaaS-based Penetration Testing platform (acquired).
